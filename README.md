@@ -18,7 +18,7 @@ Said "**fuck that !**" and decided to use my brain for something more interestin
 
 Self-taught Python in 2005. Always been a tech nerd. Coding felt natural from day one.
 
-PHP dev for 2 years → Independent for 2 (full stack) → Lead dev for 4.
+PHP dev for 2 years → Independent for 2 (full stack) → Lead dev (and dev ops, and repo master, and office grinch)  for 4.
 
 Now? I build tools that make me less miserable. Sometimes they help other people too.
 
