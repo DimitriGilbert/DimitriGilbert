@@ -22,7 +22,7 @@ PHP dev for 2 years → Independent for 2 (full stack) → Lead dev for 4.
 
 Now? I build tools that make me less miserable. Sometimes they help other people too.
 
-**cocorico ma poule !** 🇫🇷 Francais du soir au matin, avec du rab' en plus.
+**cocorico !** 🇫🇷 
 
 ---
 
@@ -66,8 +66,8 @@ Bash argument parser generator. No dependencies, type-safe, handles the soul-cru
 
 ---
 
-### cn-registry.dev ⭐ 2
-A hub for shadcn/ui components. Because finding good components shouldn't be a scavenger hunt.
+### task-o-matic ⭐ 2
+The best work is no work or something like that...
 
 ---
 
@@ -75,7 +75,7 @@ A hub for shadcn/ui components. Because finding good components shouldn't be a s
 
 TypeScript (death by types !) · React · Node.js · Bash · Go
 
-**Not** a "passionate developer with almost 20 years experience". Just someone who turns coffee into bugs.
+a "passionate developer with almost 20 years experience". Someone who turns coffee into bugs.
 
 ---
 
